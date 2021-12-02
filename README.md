@@ -4,6 +4,7 @@ This is a project with the OCoClus implementation that finds non-overlapped and 
 Source code of the paper **A Co-occurrence Based Approach for Mining Overlapped Co-clusters in Binary Data**, accepted for publication in BRACIS-21.
 
 [Access the paper here!](https://link.springer.com/chapter/10.1007%2F978-3-030-91702-9_25) <!--\[ [preprint](./reference/preprint.pdf) ] \[ [bibtex](./reference/bibliography.bib) ]-->
+You can access the original OCoClus repository [here](https://github.com/bigdata-ufsc/ococlus).
 
 ## Setup
 A. Packages and dependencies version
